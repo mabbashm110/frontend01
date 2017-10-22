@@ -1,0 +1,23 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabbashm110/frontend01.git"
+  },
+  "keywords": [
+    "npm",
+    "install"
+  ],
+  "author": "Mehdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabbashm110/frontend01/issues"
+  },
+  "homepage": "https://github.com/mabbashm110/frontend01#readme"
+}
